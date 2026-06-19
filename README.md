@@ -1,15 +1,20 @@
 📊 Student Grade Sheet (HTML)
 
 📌 Description
-This is a simple Student Grade Sheet webpage built using HTML.
-It displays student details along with subject-wise marks, grades, and total result in a structured table format.
+
+📊 This is a simple Student Grade Sheet webpage built using HTML5.
+👨‍🎓 It displays student information along with subject-wise marks, grades, total marks, and result status in a well-structured table format.
+📋 The project demonstrates the use of HTML tables to organize and present academic records clearly.
 
 🛠️ Technologies Used
-HTML5
+
+🌐 HTML5 – Structure and Content
 
 ✨ Features
-👤 Display student details (Name, Register Number, Department, Semester)
-📚 Subject-wise marks and grades
-🧮 Total marks calculation display
-✅ Result status (Pass/Fail)
-📋 Clean table-based layout
+
+👤 Display Student Details (Name, Register Number, Department, Semester)
+📚 Subject-wise Marks and Grades
+🧮 Total Marks Calculation Display
+✅ Result Status (Pass/Fail)
+📋 Clean Table-Based Layout
+🎯 Easy-to-Read Academic Report Format
