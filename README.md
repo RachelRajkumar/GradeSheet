@@ -3,7 +3,9 @@
 📌 Description
 
 📊 This is a simple Student Grade Sheet webpage built using HTML5.
+
 👨‍🎓 It displays student information along with subject-wise marks, grades, total marks, and result status in a well-structured table format.
+
 📋 The project demonstrates the use of HTML tables to organize and present academic records clearly.
 
 🛠️ Technologies Used
