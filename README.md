@@ -1,22 +1,43 @@
-📊 Student Grade Sheet (HTML)
+📊🎓 Student Grade Sheet
 
-📌 Description
+📌 About the Project
 
-📊 This is a simple Student Grade Sheet webpage built using HTML5.
+📊 Student Grade Sheet is a simple and interactive web application developed using HTML, CSS, and JavaScript.
 
-👨‍🎓 It displays student information along with subject-wise marks, grades, total marks, and result status in a well-structured table format.
+👨‍🎓 The application displays student details, subject-wise marks, grades, total marks, percentage, and result status in a clean and professional format.
 
-📋 The project demonstrates the use of HTML tables to organize and present academic records clearly.
+📋 This project demonstrates how academic records can be organized and presented effectively using web technologies.
 
 🛠️ Technologies Used
 
 🌐 HTML5 – Structure and Content
 
+🎨 CSS3 – Styling and Responsive Design
+
+⚡ JavaScript – Automatic Calculations and Grade Generation
+
 ✨ Features
 
-👤 Display Student Details (Name, Register Number, Department, Semester)
-📚 Subject-wise Marks and Grades
-🧮 Total Marks Calculation Display
-✅ Result Status (Pass/Fail)
+👤 Display Student Information
+
+🆔 Register Number Management
+
+🏫 Department and Semester Details
+
+📚 Subject-wise Marks Display
+
+🏆 Automatic Grade Assignment
+
+🧮 Total Marks Calculation
+
+📈 Percentage Calculation
+
+✅ Pass / Fail Result Status
+
 📋 Clean Table-Based Layout
-🎯 Easy-to-Read Academic Report Format
+
+🖨️ Print Grade Sheet Functionality
+
+📱 Responsive Design
+
+🎯 User-Friendly Interface
