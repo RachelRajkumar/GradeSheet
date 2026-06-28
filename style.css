@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, sans-serif;
+    background:#f5f5f5;
+}
+
+.container{
+    width:80%;
+    margin:auto;
+    background:white;
+    padding:20px;
+    margin-top:30px;
+    border-radius:10px;
+}
+
+h1{
+    text-align:center;
+    color:#2c3e50;
+}
+
+table{
+    width:100%;
+    border-collapse:collapse;
+    margin-top:20px;
+}
+
+th,td{
+    border:1px solid #ddd;
+    padding:10px;
+    text-align:center;
+}
+
+th{
+    background:#3498db;
+    color:white;
+}
+
+.summary{
+    margin-top:20px;
+}
+
+button{
+    background:#28a745;
+    color:white;
+    padding:10px 20px;
+    border:none;
+    cursor:pointer;
+    border-radius:5px;
+}
